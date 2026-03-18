@@ -1,0 +1,13 @@
+{
+    "name": "Ambiente VisuAlg",
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "henrique-f-pinto.visualg-syntax",
+                "richard-goncalves.visualg-vscode-snippets",
+                "marcelovbc.visualg-interpreter"
+            ]
+        }
+    }
+}
